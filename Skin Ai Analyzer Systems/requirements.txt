@@ -1,0 +1,4 @@
+torch
+ultralyticsplus
+Pillow
+yolov8
